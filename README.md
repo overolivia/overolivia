@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Olivia 👋
 
-<!--
-**overolivia/overolivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Design engineer in Milwaukee. I build design systems and ship polished front ends,
+with a BFA and a photographer's eye for light and composition.
 
-Here are some ideas to get you started:
+**Portfolio:** [oliviaoverturf.dev](https://oliviaoverturf.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- **Design-to-code token pipeline** at my job: a custom Figma plugin and sync
+  script that keep design and code in sync across our brand storefronts.
+- **Liv Finley CRM:** a full-stack CRM I designed and built for my photography
+  business (React, Netlify Functions, MongoDB).
+
+Most of my production work lives in private repositories. The portfolio walks
+through it with videos and live demos.
+
+📫 overolivia@gmail.com · [LinkedIn](https://www.linkedin.com/in/olivia-overturf)
